@@ -1,0 +1,6 @@
+Partlist exported from C:/Users/Alvaro M/Documents/EAGLE/projects/Electro3/Sensor hall.sch at 8/04/2025 11:27 p. m.
+
+Qty Value Device       Package  Parts Description               MF MPN     OC_FARNELL OC_NEWARK POPULARITY SPICEPREFIX
+1         PINHD-1X3    1X03     JP1   PIN HEADER                                                92                    
+1         R-US_0411/15 0411/15  R1    RESISTOR, American symbol                                 2          R          
+1         W237-103     W237-103 X1    WAGO SCREW CLAMP             237-103 unknown    18M7116   5                     

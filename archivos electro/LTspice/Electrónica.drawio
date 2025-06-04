@@ -1,0 +1,240 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.14">
+  <diagram name="Página-1" id="fxq7GLHbGktd_frhyv-I">
+    <mxGraphModel grid="0" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="v1kuwqoFcNfGnBXmLyB1-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="QZyyVI0VfYXRLZcz9I-_-1" target="v1kuwqoFcNfGnBXmLyB1-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QZyyVI0VfYXRLZcz9I-_-1" value="Etapa preliminar&lt;div&gt;(1)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-2" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QZyyVI0VfYXRLZcz9I-_-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QZyyVI0VfYXRLZcz9I-_-2" target="v1kuwqoFcNfGnBXmLyB1-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QZyyVI0VfYXRLZcz9I-_-2" value="Diseño de software&lt;div&gt;(5)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="493" y="252" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QZyyVI0VfYXRLZcz9I-_-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QZyyVI0VfYXRLZcz9I-_-3" target="QZyyVI0VfYXRLZcz9I-_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QZyyVI0VfYXRLZcz9I-_-3" value="Diseño circuital&lt;div&gt;(3)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v1kuwqoFcNfGnBXmLyB1-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QZyyVI0VfYXRLZcz9I-_-4" target="v1kuwqoFcNfGnBXmLyB1-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QZyyVI0VfYXRLZcz9I-_-4" value="Prototipado circuital&lt;div&gt;(4)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QZyyVI0VfYXRLZcz9I-_-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QZyyVI0VfYXRLZcz9I-_-7" target="QZyyVI0VfYXRLZcz9I-_-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QZyyVI0VfYXRLZcz9I-_-7" value="Pruebas finales&lt;div&gt;(10)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="611" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QZyyVI0VfYXRLZcz9I-_-9" value="Entrega final" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="717" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QZyyVI0VfYXRLZcz9I-_-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="QZyyVI0VfYXRLZcz9I-_-19" target="QZyyVI0VfYXRLZcz9I-_-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QZyyVI0VfYXRLZcz9I-_-19" value="Microcontrolador" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="290" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="QZyyVI0VfYXRLZcz9I-_-20" value="Display" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QZyyVI0VfYXRLZcz9I-_-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QZyyVI0VfYXRLZcz9I-_-21" target="QZyyVI0VfYXRLZcz9I-_-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QZyyVI0VfYXRLZcz9I-_-21" value="Acondicionamiento" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QZyyVI0VfYXRLZcz9I-_-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QZyyVI0VfYXRLZcz9I-_-22" target="QZyyVI0VfYXRLZcz9I-_-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QZyyVI0VfYXRLZcz9I-_-22" value="Sensor de efecto Hall" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QZyyVI0VfYXRLZcz9I-_-34" value="Consideraciones" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-840" y="235" width="445" height="230" as="geometry">
+            <mxRectangle x="-325" y="480" width="130" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QZyyVI0VfYXRLZcz9I-_-35" value="Los microcontroladores considerados fueron el Arduino UNO, Arduino NANO y ESP32" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="QZyyVI0VfYXRLZcz9I-_-34">
+          <mxGeometry y="30" width="445" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QZyyVI0VfYXRLZcz9I-_-37" value="Se terminó eligiendo el ESP32 debido a múltiples razones. Principalmente porque un sistema de control ya existente en el vehículo empleaba su uso, y es posible ahorrar costos del microcontrolador reusándolo." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="QZyyVI0VfYXRLZcz9I-_-34">
+          <mxGeometry y="70" width="445" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QZyyVI0VfYXRLZcz9I-_-40" value="El ESP32 también presenta una solución a un problema de escalamiento. Si se necesita liberar espacio en el display para más datos, el microcontrolador cuenta con capacidades de comunicación inalámbrica. Esto abre la posibilidad para fácil interfaz con otras opciones de despliege de datos como monitores táctiles o dispósitivos móviles mediante conexión por bluetooth, abriendo espacio para funcionalidades como interfaces de datos del automóvil, GPS, retrovisión mediante el uso de una cámara trasera, entre otros." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="QZyyVI0VfYXRLZcz9I-_-34">
+          <mxGeometry y="120" width="445" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="QZyyVI0VfYXRLZcz9I-_-38" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="300" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QZyyVI0VfYXRLZcz9I-_-45" value="Consideraciones" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="-125" width="195" height="360" as="geometry">
+            <mxRectangle x="-155" y="480" width="130" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QZyyVI0VfYXRLZcz9I-_-51" value="La implementación del OpAmp será llevada a cabo en esta etapa" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="QZyyVI0VfYXRLZcz9I-_-45">
+          <mxGeometry y="30" width="195" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QZyyVI0VfYXRLZcz9I-_-52" value="Esta implementación depende de la solución que requiera el circuito de acondicionamiento." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="QZyyVI0VfYXRLZcz9I-_-45">
+          <mxGeometry y="60" width="195" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QZyyVI0VfYXRLZcz9I-_-53" value="Un caso de uso posible sería un comparador para ajustar la sensibilidad de un sensor de efecto Hall analógico, permitiéndonos convertir la señal analógica en un pulso digital así como disminuir el margen de error de las lecturas." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="QZyyVI0VfYXRLZcz9I-_-45">
+          <mxGeometry y="120" width="195" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="QZyyVI0VfYXRLZcz9I-_-54" value="Otro caso de uso podría ser un filtro pasa bajos en caso de que la señal se comporte de manera errática." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="QZyyVI0VfYXRLZcz9I-_-45">
+          <mxGeometry y="250" width="195" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QZyyVI0VfYXRLZcz9I-_-55" value="Adicionalmente, es posible usar el OpAmp en caso de necesitarse amplificación para la señal." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="QZyyVI0VfYXRLZcz9I-_-45">
+          <mxGeometry y="310" width="195" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QZyyVI0VfYXRLZcz9I-_-49" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="260" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QZyyVI0VfYXRLZcz9I-_-56" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="85" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jaXs32ig3qdT48CxQz9s-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="jaXs32ig3qdT48CxQz9s-3" target="jaXs32ig3qdT48CxQz9s-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jaXs32ig3qdT48CxQz9s-3" value="Microcontrolador&lt;div&gt;(1)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="940" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jaXs32ig3qdT48CxQz9s-4" value="Display&lt;div&gt;(4)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jaXs32ig3qdT48CxQz9s-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jaXs32ig3qdT48CxQz9s-6" target="jaXs32ig3qdT48CxQz9s-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jaXs32ig3qdT48CxQz9s-6" value="Acondicionamiento&lt;div&gt;(2)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jaXs32ig3qdT48CxQz9s-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jaXs32ig3qdT48CxQz9s-8" target="jaXs32ig3qdT48CxQz9s-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jaXs32ig3qdT48CxQz9s-8" value="Sensor de efecto Hall&lt;div&gt;(3)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jaXs32ig3qdT48CxQz9s-9" value="Consideraciones (1)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="1120" width="445" height="230" as="geometry">
+            <mxRectangle x="-325" y="480" width="130" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jaXs32ig3qdT48CxQz9s-10" value="Los microcontroladores considerados fueron el Arduino UNO, Arduino NANO y ESP32." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="jaXs32ig3qdT48CxQz9s-9">
+          <mxGeometry y="30" width="445" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jaXs32ig3qdT48CxQz9s-11" value="Se terminó eligiendo el ESP32 debido a múltiples razones. Principalmente porque un sistema de control ya existente en el vehículo empleaba su uso, y es posible ahorrar costos del microcontrolador reusándolo." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="jaXs32ig3qdT48CxQz9s-9">
+          <mxGeometry y="70" width="445" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jaXs32ig3qdT48CxQz9s-12" value="El ESP32 también presenta una solución a un problema de escalamiento. Si se necesita liberar espacio en el display para más datos, el microcontrolador cuenta con capacidades de comunicación inalámbrica. Esto abre la posibilidad para fácil interfaz con otras opciones de despliege de datos como monitores táctiles o dispósitivos móviles mediante conexión por bluetooth, abriendo espacio para funcionalidades como interfaces de datos del automóvil, GPS, retrovisión mediante el uso de una cámara trasera, entre otros." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="jaXs32ig3qdT48CxQz9s-9">
+          <mxGeometry y="120" width="445" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="jaXs32ig3qdT48CxQz9s-14" value="Consideraciones (2)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-115" y="1120" width="435" height="230" as="geometry">
+            <mxRectangle x="-155" y="480" width="130" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jaXs32ig3qdT48CxQz9s-15" value="La implementación del OpAmp será llevada a cabo en esta etapa." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="jaXs32ig3qdT48CxQz9s-14">
+          <mxGeometry y="30" width="435" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jaXs32ig3qdT48CxQz9s-16" value="Esta implementación depende de la solución que requiera el circuito de acondicionamiento." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="jaXs32ig3qdT48CxQz9s-14">
+          <mxGeometry y="50" width="435" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jaXs32ig3qdT48CxQz9s-17" value="Un caso de uso posible sería un comparador para ajustar la sensibilidad de un sensor de efecto Hall analógico, permitiéndonos convertir la señal analógica en un pulso digital así como disminuir el margen de error de las lecturas." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="jaXs32ig3qdT48CxQz9s-14">
+          <mxGeometry y="80" width="435" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jaXs32ig3qdT48CxQz9s-18" value="Otro caso de uso podría ser un filtro pasa bajos en caso de que la señal se comporte de manera errática." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="jaXs32ig3qdT48CxQz9s-14">
+          <mxGeometry y="130" width="435" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jaXs32ig3qdT48CxQz9s-19" value="Adicionalmente, es posible usar el OpAmp en caso de necesitarse amplificación para la señal. Este será el uso para el primer prototipo, se implementarán otros casos en caso de ser necesario." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="jaXs32ig3qdT48CxQz9s-14">
+          <mxGeometry y="170" width="435" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jaXs32ig3qdT48CxQz9s-22" value="Consideraciones (3)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="1350" width="445" height="140" as="geometry">
+            <mxRectangle x="-325" y="480" width="130" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jaXs32ig3qdT48CxQz9s-23" value="Se consideraron usar un sensor de efecto Hall y un tacómetro, Se determinó que el sensor de efecto Hall se adaptaba mejor a los requerimientos del proyecto debido a su inherente robustez ante factores de ruido como polvo o sucio en el eje del vehículo." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="jaXs32ig3qdT48CxQz9s-22">
+          <mxGeometry y="30" width="445" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jaXs32ig3qdT48CxQz9s-24" value="De los sensores disponibles disponibles en el mercado, se usará el sensor analógico UGN3503 debido a que se concluyó que cumplía con los requisitos de operación en frecuencia y temperatura determinados." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="jaXs32ig3qdT48CxQz9s-22">
+          <mxGeometry y="90" width="445" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jaXs32ig3qdT48CxQz9s-26" value="Consideraciones (4)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-115" y="1350" width="435" height="140" as="geometry">
+            <mxRectangle x="-325" y="480" width="130" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jaXs32ig3qdT48CxQz9s-27" value="El display debe ser visto en condiciones de alto brillo a una distancia de aproximadamente 0.8 metros mientras se está conduciendo." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="jaXs32ig3qdT48CxQz9s-26">
+          <mxGeometry y="30" width="435" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jaXs32ig3qdT48CxQz9s-28" value="De las tecnologías disponibles para la implementación del display como los son el OLED, LED o LCD, se decidió usar un LED de 7 segmentos debido a su alto brillo. Entre más llamativo, más fácil es de visualizar durante la conducción." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="jaXs32ig3qdT48CxQz9s-26">
+          <mxGeometry y="70" width="435" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="v1kuwqoFcNfGnBXmLyB1-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v1kuwqoFcNfGnBXmLyB1-3" target="QZyyVI0VfYXRLZcz9I-_-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="166" />
+              <mxPoint x="553" y="166" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v1kuwqoFcNfGnBXmLyB1-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v1kuwqoFcNfGnBXmLyB1-3" target="QZyyVI0VfYXRLZcz9I-_-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2-bqBdcd5z2AjZp6gadh-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v1kuwqoFcNfGnBXmLyB1-3" target="2-bqBdcd5z2AjZp6gadh-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2-bqBdcd5z2AjZp6gadh-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v1kuwqoFcNfGnBXmLyB1-3" target="v1kuwqoFcNfGnBXmLyB1-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v1kuwqoFcNfGnBXmLyB1-3" value="Planeación financiera&lt;div&gt;(2)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2-bqBdcd5z2AjZp6gadh-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="v1kuwqoFcNfGnBXmLyB1-8" target="v1kuwqoFcNfGnBXmLyB1-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="716" y="542" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v1kuwqoFcNfGnBXmLyB1-8" value="Diseño estructural&lt;div&gt;(7)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="656" y="255" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v1kuwqoFcNfGnBXmLyB1-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v1kuwqoFcNfGnBXmLyB1-11" target="v1kuwqoFcNfGnBXmLyB1-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v1kuwqoFcNfGnBXmLyB1-11" value="Pruebas electrónicas&lt;div&gt;(8)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="396" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v1kuwqoFcNfGnBXmLyB1-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v1kuwqoFcNfGnBXmLyB1-13" target="QZyyVI0VfYXRLZcz9I-_-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v1kuwqoFcNfGnBXmLyB1-13" value="Implementación del producto&lt;div&gt;(9)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="512" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v1kuwqoFcNfGnBXmLyB1-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v1kuwqoFcNfGnBXmLyB1-20" target="QZyyVI0VfYXRLZcz9I-_-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v1kuwqoFcNfGnBXmLyB1-20" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-104" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2-bqBdcd5z2AjZp6gadh-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2-bqBdcd5z2AjZp6gadh-1" target="QZyyVI0VfYXRLZcz9I-_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2-bqBdcd5z2AjZp6gadh-1" value="Diseño e implementación del OpAmp&lt;div&gt;(6)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="154" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

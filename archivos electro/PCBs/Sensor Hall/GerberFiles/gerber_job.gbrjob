@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2025-04-09T04:27:28Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Sensor hall"
+        },
+        "Owner": "Alvaro Mugno <aamugno@uninorte.edu.co>",
+        "Size": {
+            "X": 29.19,
+            "Y": 25.07
+        }
+    }
+}
